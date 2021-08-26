@@ -12,5 +12,10 @@
     "url": "https://idontknow/todo.git"
   },
   "author": "Kirsten Allen",
-  "description": "A project to learn about APIs and microservices"
+  "description": "A project to learn about APIs and microservices",
+  "keywords": [
+    "freecodecamp",
+    "api",
+    "microservice"
+  ]
 }
